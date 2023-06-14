@@ -27,5 +27,9 @@
 		"typescript": "^5.0.0",
 		"vite": "^4.3.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"firebase": "^9.22.2",
+		"firebaseui": "^6.0.2"
+	}
 }
